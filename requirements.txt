@@ -1,0 +1,8 @@
+google-generativeai
+streamlit
+pandas
+numpy
+fuzzywuzzy
+python-Levenshtein
+openai
+

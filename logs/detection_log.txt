@@ -1,0 +1,3 @@
+[Missing] Found 27 rows with missing values.
+[Invalid Email] Found 30 rows with malformed emails.
+[Invalid Industry] Found 17 rows with unrecognized industries.
